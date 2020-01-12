@@ -1,0 +1,2 @@
+# visualize_data2
+python2の動作環境で、データファイルを見やすくするツール
